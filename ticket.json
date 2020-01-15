@@ -1,0 +1,10 @@
+{  
+    "data":{
+    
+            "name"    : "仟寻网",
+            "bundle-version" : 1.0,
+            "build-version" : 1,
+            "updateContent" : "仟寻网",
+            "download-url"  : "https://gitee.com/ll-ios/youpiao/raw/master/manifest.plist"
+    }
+}

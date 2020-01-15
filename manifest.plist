@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://132.232.157.23:8086/img/download/ios/qianxunios.ipa</string>
+					<string>https://github.com/qianxun702/app/blob/master/qianxunios.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://132.232.157.23:8086/img/download/ios/qianxun57.png</string>
+					<string>https://github.com/qianxun702/app/blob/master/qianxun57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://132.232.157.23:8086/img/download/ios/qianxun180.png</string>
+					<string>https://github.com/qianxun702/app/blob/master/qianxun180.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
